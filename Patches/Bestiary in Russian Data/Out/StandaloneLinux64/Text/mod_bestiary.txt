@@ -1,0 +1,39 @@
+schema: *key, $text
+
+- Детали
+Mod.Description, "Книга с описанием монстров и статисткой убитых монстров."
+
+- Настройки
+Settings.Gameplay.Name, "Игра"
+Settings.Gameplay.MenuUnlock.Name, "Разблокирование"
+Settings.Gameplay.MenuUnlock.Description, "Что нужно, чтобы открыть Бестиарий?"
+Settings.Gameplay.Entries.Name, "Записи"
+Settings.Gameplay.Entries.Description, "Какие записи будут доступны для просмотра в Бестиарии."
+Settings.Gameplay.ItemSpawning.Name, "Появление книги"
+Settings.Gameplay.ItemSpawning.Description, "Появится ли в мире книга Бестиария?"
+Settings.Gameplay.ItemSpawningExtraChance.Name, "Увеличить шанс"
+Settings.Gameplay.ItemSpawningExtraChance.Description, "Увеличить шанс на появление книги в мире."
+Settings.UserInterface.Name, "Интерфейс"
+Settings.UserInterface.DefaultMobOrientation.Name, "Направление монстров"
+Settings.UserInterface.DefaultMobOrientation.Description, "В какую сторону повернуты монстры по умолчанию."
+Settings.UserInterface.DelayBetweenAnimationFrames.Name, "Задержка между кадрами"
+Settings.UserInterface.DelayBetweenAnimationFrames.Description, "Установите время, необходимое для перехода от одного кадра анимации к другому."
+Settings.UserInterface.EnableAnimations.Name, "Включить анимацию"
+Settings.UserInterface.EnableAnimations.Description, "Включите анимацию монстров в книге."
+Settings.UserInterface.EnableEightDirectionRotation.Name, "Включить вращение"
+Settings.UserInterface.EnableEightDirectionRotation.Description, "Разрешить поворот монстров. Может вызвать тормоза. Не рекомендуется с модом DREAM."
+Settings.UserInterface.FontColor.Name, "Цвет шрифта"
+Settings.UserInterface.FontColor.Description, "Цвет шрифта в книге."
+Settings.UserInterface.FontShadowColor.Name, "Цвет тени шрифта"
+Settings.UserInterface.FontShadowColor.Description, "Цвет тени шрифта в книге."
+Settings.UserInterface.HeaderFontColor.Name, "Цвет шрифта заголовка"
+Settings.UserInterface.HeaderFontColor.Description, "Цвет шрифта заголовка в книге."
+Settings.UserInterface.HeaderFontShadowColor.Name, "Цвет тени заголовка"
+Settings.UserInterface.HeaderFontShadowColor.Description, "Цвет тени заголовка в книге."
+Settings.Controls.Name, "Управление"
+Settings.Controls.Keybind.Name, "Клавиша"
+Settings.Controls.Keybind.Description, "Задайте клавишу, по которой будет открываться Бестиарий."
+
+- Presets
+Presets.Default.Title, "Default"
+Presets.Default.Description, "Default settings."

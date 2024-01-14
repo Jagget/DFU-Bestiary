@@ -103,6 +103,11 @@
             "Name": "bestiary",
             "IsOptional": false,
             "IsPeer": false
+        },
+        {
+            "Name": "bestiary - dream patch",
+            "IsOptional": true,
+            "IsPeer": false
         }
     ]
 }
