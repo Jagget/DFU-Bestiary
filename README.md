@@ -9,13 +9,18 @@
 
 [Bestiary Demonstration](https://youtu.be/bcpwmayP4M8)
 
+## Screenshot
+
+![Menu](./Screenshot/1.png)
+![Settings page](./Screenshot/3.png)
+
 ## Description
 
 * Bestiary is a mod, that reintroduces the Bestiary as seen in one of Daggerfall's demos, and further builds upon it
 * Pressing "B", or the hotkey of choice, in-game will open the screen
 
 ## Credits
-* [King of Worms](https://forums.dfworkshop.net/memberlist.php?mode=viewprofile&u=684) - D.R.E.A.M. Compactibility and UI partial UI design
+* [King of Worms](https://forums.dfworkshop.net/memberlist.php?mode=viewprofile&u=684) - D.R.E.A.M. Compactibility and UI partial design
 * [Jagget](https://github.com/Jagget) - Author of patch 1.5 and 2.0
 * [Ninelan](https://forums.dfworkshop.net/memberlist.php?mode=viewprofile&u=3251) - Bestiary item art
 * [UESP](https://docs.google.com/document/d/122w336Ty--AFYz5MhlRW5mJlu6L4x0NcCVyCbbY6l8Q/edit?usp=sharing) - Most texts are copied (with minor editing) from here from here, or the [Daggerfall User's Guide](https://en.uesp.net/wiki/Books:Daggerfall_User%27s_Guide).
@@ -54,8 +59,19 @@ Reworked a part of the internal, hopefully increasing stability
 Fixed a bunch of bugs
 
 1.5
-All credit goes to Jagget. He did all the work.
+All credit goes to Jagget
 Uplifted interface
 Added ACTIVE state to buttons
 Smashed some bugs
+
+2.0
+All credit goes to Jagget
+Reworked text database
+Reworked page rendering
+Fix humanoid bug
+Vampires could also carry the book
+The chance of the item spawning is lower now
+Makes the mod updatable from other mods. (No need to built-in support for Unleveled Spells)
+Fixed the darkened monster textures
+Added text color settings (for alternative skins)
 ```
